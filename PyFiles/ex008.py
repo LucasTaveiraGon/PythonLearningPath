@@ -1,0 +1,2 @@
+metros = int(input('Digite um numero em metros: '))
+print('A metragem informada é de {} metros \n {} kilometros \n {} centimetros \n {} milimetros'.format(metros, (metros/1000), (metros*100), (metros*1000)))
